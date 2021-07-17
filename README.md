@@ -5,6 +5,8 @@ converting dataset into inp.file(abaqus environment)
 
 - You can either convert dataset into inp file with creation code and write that in txt file with write code.
 
+- The original dataset has not been uploaded since copyright of the original dataset file is under the Korea Institute of Materials Science(KIMS)
+
 - Finite element analysis(FEA) concept is used. 
 
 
