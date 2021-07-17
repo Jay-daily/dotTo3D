@@ -5,4 +5,6 @@ This file and code illustrates how to convert the original dataset which is orga
 
 You can either convert dataset into inp file with creation code and write that in txt file with write code.
 
+Finite element analysis(FEA) concept is used. 
+
 
