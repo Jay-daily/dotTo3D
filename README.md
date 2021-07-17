@@ -1,4 +1,4 @@
-# dotTo3D by Matlab
+# inpfile converter (dotTo3D) using Matlab
 converting dataset into inp.file(abaqus environment)
 
 This file and code illustrates how to convert the original dataset which is organized in dot method to voxel(cubic) dataset.
