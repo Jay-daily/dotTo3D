@@ -7,6 +7,6 @@ converting dataset into inp.file(abaqus environment)
 
 - The original dataset has not been uploaded since copyright of the original dataset file is under the Korea Institute of Materials Science(KIMS)
 
-- Finite element analysis(FEA) concept is used. 
+- Finite element analysis(FEA) concept has been adopted
 
 
