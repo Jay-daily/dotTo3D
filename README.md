@@ -8,4 +8,4 @@ converting dataset into inp.file(abaqus environment)
 - The original dataset has not been uploaded since copyright of the original dataset file is under the Korea Institute of Materials Science(KIMS).
   So unfortunately, it may not work for your dataset directly.
   
-- But you are still able to see and find the logic.
+- But you will still be able to see and find the logic.
